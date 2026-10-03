@@ -1,0 +1,27 @@
+1. Import libraries
+       ↓
+2. Load loan dataset
+       ↓
+3. Understand dataset
+       ↓
+4. Check missing values
+       ↓
+5. Remove missing values
+       ↓
+6. Convert text → numbers
+       ↓
+7. Visualize data
+       ↓
+8. Separate X and Y
+       ↓
+9. Split into training/testing data
+       ↓
+10. Create SVM model
+       ↓
+11. Train model
+       ↓
+12. Make predictions
+       ↓
+13. Calculate accuracy
+       ↓
+14. Build predictive system
